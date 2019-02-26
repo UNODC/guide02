@@ -1,6 +1,6 @@
 {
   "name": "Guide 2",
-  "start_url": "https://unodc.github.io/guide02/en/index.html",
+  "start_url": "https://fieldguides.github.io/guide02/en/index.html",
   "background_color": "#7986cb",
   "display": "standalone",
   "publication": "manifest.json"
