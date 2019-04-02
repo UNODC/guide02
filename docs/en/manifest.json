@@ -1,0 +1,334 @@
+{
+  "@context": [
+    "https://readium.org/webpub-manifest/context.jsonld"
+  ],
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Untitled Book",
+    "identifier": "urn:uuid:2aa73f1a-7ae3-ba98-fbe2-308ef08da3f3",
+    "author": {
+      "name": "Kotobee"
+    },
+    "publisher": {
+      "name": "N/A"
+    },
+    "language": [
+      "en"
+    ],
+    "modified": "2019-04-02T21:28:01.385Z",
+    "description": "No description available",
+    "rendition": {
+      "layout": "reflowable"
+    },
+    "rights": "Kotobee"
+  },
+  "readingOrder": [
+    {
+      "href": "EPUB/xhtml/htmloofrs/page.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/htmloofrs/page1.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/htmloofrs/page2.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/htmloofrs/page4.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/htmloofrs/page6.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/htmloofrs/page7.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/htmloofrs/page8.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/htmloofrs/page9.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/htmloofrs/page10.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/htmloofrs/page11.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/htmloofrs/page12.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/htmloofrs/page13.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/htmloofrs/page14.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/htmloofrs/page15.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/htmloofrs/page16.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/htmloofrs/page17.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/htmloofrs/page18.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/htmloofrs/page19.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/htmloofrs/page20.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/htmloofrs/page21.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/htmloofrs/page22.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/htmloofrs/page23.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/htmloofrs/page24.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/raw/page-1.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/raw/page.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    }
+  ],
+  "resources": [
+    {
+      "href": "EPUB/xhtml/raw/contents.xhtml",
+      "type": "application/xhtml+xml",
+      "rel": "contents"
+    },
+    {
+      "href": "EPUB/xhtml/raw/contents.ncx",
+      "type": "application/x-dtbncx+xml"
+    },
+    {
+      "href": "EPUB/imgs/defaultCover.png",
+      "type": "image/png",
+      "height": 324,
+      "width": 250,
+      "rel": "cover"
+    },
+    {
+      "href": "EPUB/css/base.css",
+      "type": "text/css"
+    },
+    {
+      "href": "EPUB/css/global.css",
+      "type": "text/css"
+    },
+    {
+      "href": "META-INF/container.xml",
+      "type": "application/xml"
+    }
+  ],
+  "toc": [
+    {
+      "href": "EPUB/xhtml/htmloofrs/page.xhtml",
+      "title": "Title"
+    },
+    {
+      "href": "EPUB/xhtml/htmloofrs/page1.xhtml",
+      "title": "Inside Cover"
+    },
+    {
+      "href": "EPUB/xhtml/htmloofrs/page2.xhtml",
+      "title": "Front Page 1"
+    },
+    {
+      "href": "EPUB/xhtml/htmloofrs/page4.xhtml",
+      "title": "Introduction"
+    },
+    {
+      "href": "EPUB/xhtml/htmloofrs/page6.xhtml",
+      "title": "1. Sources of Information"
+    },
+    {
+      "href": "EPUB/xhtml/htmloofrs/page7.xhtml",
+      "title": "2. Managing Informants"
+    },
+    {
+      "href": "EPUB/xhtml/htmloofrs/page8.xhtml",
+      "title": "3. Intelligence Reports"
+    },
+    {
+      "href": "EPUB/xhtml/htmloofrs/page9.xhtml",
+      "title": "4. Sharing Intelligence"
+    },
+    {
+      "href": "EPUB/xhtml/htmloofrs/page10.xhtml",
+      "title": "5. Decision Making"
+    },
+    {
+      "href": "EPUB/xhtml/htmloofrs/page11.xhtml",
+      "title": "6. Operational Orders"
+    },
+    {
+      "href": "EPUB/xhtml/htmloofrs/page12.xhtml",
+      "title": "7. Assessing Risks"
+    },
+    {
+      "href": "EPUB/xhtml/htmloofrs/page13.xhtml",
+      "title": "8. Surveillance"
+    },
+    {
+      "href": "EPUB/xhtml/htmloofrs/page14.xhtml",
+      "title": "9. Technical Investigations"
+    },
+    {
+      "href": "EPUB/xhtml/htmloofrs/page15.xhtml",
+      "title": "10. Controlled Deliveries"
+    },
+    {
+      "href": "EPUB/xhtml/htmloofrs/page16.xhtml",
+      "title": "11. Preserving a Crime Scene"
+    },
+    {
+      "href": "EPUB/xhtml/htmloofrs/page17.xhtml",
+      "title": "12. Searching a Crime Scene"
+    },
+    {
+      "href": "EPUB/xhtml/htmloofrs/page18.xhtml",
+      "title": "13. Forensic Considerations"
+    },
+    {
+      "href": "EPUB/xhtml/htmloofrs/page19.xhtml",
+      "title": "14. Evidence Preservation"
+    },
+    {
+      "href": "EPUB/xhtml/htmloofrs/page20.xhtml",
+      "title": "15. Follow the Money Trail"
+    },
+    {
+      "href": "EPUB/xhtml/htmloofrs/page21.xhtml",
+      "title": "16. Searching People"
+    },
+    {
+      "href": "EPUB/xhtml/htmloofrs/page22.xhtml",
+      "title": "17. Interviewing Suspects"
+    },
+    {
+      "href": "EPUB/xhtml/htmloofrs/page23.xhtml",
+      "title": "18. Drugs"
+    },
+    {
+      "href": "EPUB/xhtml/htmloofrs/page24.xhtml",
+      "title": "19. Precursor Chemicals"
+    },
+    {
+      "href": "EPUB/xhtml/raw/page-1.xhtml",
+      "title": "20. Laboratory Equipment"
+    },
+    {
+      "href": "EPUB/xhtml/raw/page.xhtml",
+      "title": "Back Cover"
+    }
+  ]
+}
