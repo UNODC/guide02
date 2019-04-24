@@ -282,8 +282,25 @@
       "title": "11. Preserving a Crime Scene"
     },
     {
-      "href": "content/xhtml/chapter12.xhtml",
-      "title": "12. Searching a Crime Scene"
+      "title": "12. Searching a Crime Scene",
+      "children": [
+        {
+          "href": "content/xhtml/chapter12.xhtml#12-1",
+          "title": "12.1. Vehicle Search"
+        },
+        {
+          "href": "content/xhtml/chapter12.xhtml#12-2",
+          "title": "12.2. Premises Search"
+        },
+        {
+          "href": "content/xhtml/chapter12.xhtml#12-3",
+          "title": "12.3. Rural Search"
+        },
+        {
+          "href": "content/xhtml/chapter12.xhtml#12-4",
+          "title": "12.4. Vessel Search"
+        }
+      ]
     },
     {
       "href": "content/xhtml/chapter13.xhtml",
@@ -303,7 +320,26 @@
     },
     {
       "href": "content/xhtml/chapter17.xhtml",
-      "title": "17. Interviewing Suspects"
+      "title": "17. Interviewing Suspects",
+      "children": [
+        {
+          "title": "Sample Interview Questions",
+          "children": [
+            {
+              "href": "content/xhtml/chapter17.xhtml#17-1-1",
+              "title": "For Suspected Traffickers"
+            },
+            {
+              "href": "content/xhtml/chapter17.xhtml#17-1-2",
+              "title": "For couriers: (Drugs or precursors)"
+            },
+            {
+              "href": "content/xhtml/chapter17.xhtml#17-1-3",
+              "title": "For couriers: (Precursors only)"
+            }
+          ]
+        }
+      ]
     },
     {
       "href": "content/xhtml/chapter18.xhtml",
